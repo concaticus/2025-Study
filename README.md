@@ -7,7 +7,7 @@ tldr; Just wanted a way to organise things more meaningfully.
 
 - Daily Logs: Daily progress and notes
 - Notes: Course-specific content notes
-- Practice: Exercism and Codewars solutions
+- Practice: Exercism and Code Wars solutions
 - Progress Tracking:
     - Concepts: Understanding of programming concepts
     - Milestones: Overall progress tracking
@@ -16,6 +16,6 @@ tldr; Just wanted a way to organise things more meaningfully.
 
 ## Current Focus
 
-- CS50P 
-- Boot.dev Python Basics
-- Practicing fundamentals through Exercism & Codewars
+- [CS50P](https://cs50.harvard.edu/python/2022/) 
+- [Boot.dev](https://www.boot.dev/tracks/backend) [Python Basics](https://www.boot.dev/courses/learn-code-python)
+- Practicing fundamentals through [Exercism](https://exercism.org) & [Code Wars](codewars.com)
