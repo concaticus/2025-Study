@@ -1,27 +1,62 @@
-# Week {{date:WW}} Review
+# Week {{date:WW}} Review 📊
+*{{date:DD-MM-YYYY}}*
 
-Tags: #weekly-review
+Tags: #weekly-review #cs50p #bootdev
 
-## Progress Summary
-### CS50P
-- Completed:
-- Current status:
-
-### Boot.dev
-- Completed:
-- Progress:
-
-### Practice
-- Problems completed:
-- Time spent:
-
-## Understanding Check
-Strong areas:
+## **Learning Progress 📈    ^**
+#### CS50P
+Completed Lectures:
 - 
-
-Need work:
+Completed Problem Sets:
 - 
+Key Concepts:
+- 
+Areas for Review:
+- 
+#### Boot.dev
+Modules Completed:
+- 
+Problems Solved:
+- 
+Current Level:
+- 
+Challenges:
+- 
+___
 
-## Next Week's Goals
-1. 
-2. 
+## **Time & Productivity ⏱️    ^**
+Study Hours:
+- 
+Most Productive Time:
+- 
+Distractions:
+- 
+___
+
+## **Weekly Reflection 🤔    ^**
+#### Wins ⭐
+- 
+#### Growth Areas 🌱
+- 
+#### Action Items ✅
+1.
+2.
+
+___
+
+## **Next Week 🎯    ^**
+#### Focus Areas
+- 
+#### Goals
+1.
+2.
+
+#### Schedule 📅
+CS50P:
+- [ ]
+
+Boot.dev:
+- [ ]
+
+Practice:
+- [ ]

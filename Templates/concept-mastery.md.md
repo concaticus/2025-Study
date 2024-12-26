@@ -1,4 +1,4 @@
-
+wc
 # {{concept}}
 
 Tags: #concept #mastery
@@ -16,7 +16,7 @@ Tags: #concept #mastery
 ## Notes
 - 
 
-## Review Areas
+## Review Areas 
 - 
 
 ## Next Steps
