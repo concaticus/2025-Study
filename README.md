@@ -1,7 +1,8 @@
 
-This is an attempted repository documenting my learning into backend development throughout 2025. Initially designed to organise and track my progress through Boot.dev's backend curriculum and Harvard's CS50P course, while incorporating practice from platforms like Exercism and Codewars.
+This is repository documenting my learning of backend development throughout 2025. While initially designed to organise and track my progress through Boot.dev's backend curriculum and Harvard's CS50P course, and incorporating practice from platforms like Exercism and Code Wars, the focus and content of which will likely change depending on what material I am learning. 
 
-The focus and content of which will change depending on what material I am learning. 
+tldr; Just wanted a way to organise things more meaningfully.
+
 ## Structure
 
 - Daily Logs: Daily progress and notes
